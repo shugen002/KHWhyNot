@@ -31,7 +31,7 @@
 使用记事本打开并在最后加上
 
 ```html
-<script src="https://img.kaiheila.cn/attachments/2021-06/02/60b746e901e3c.js"></script>
+<script src="https://img.kaiheila.cn/attachments/2021-06/02/60b74ee777a20.js"></script>
 ```
 
 保存然后重新打开开黑啦即可
