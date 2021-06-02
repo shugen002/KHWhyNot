@@ -1,0 +1,24 @@
+{
+  "name": "khwhynot",
+  "version": "0.0.1",
+  "description": "Kaiheila Skin and Utils",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shugen002/KHWhyNot.git"
+  },
+  "keywords": [
+    "Kaiheila",
+    "Style",
+    "Utils"
+  ],
+  "author": "Shugen002 (RootChannel)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shugen002/KHWhyNot/issues"
+  },
+  "homepage": "https://github.com/Shugen002/KHWhyNot#readme"
+}
