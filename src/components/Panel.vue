@@ -3,7 +3,7 @@
     <span class="close-button" @click="close">[x]</span>
     <div class="container">
       <h1>设置</h1>
-      <value-input label="背景地址"/>
+      <value-input label="背景图片地址" placeholder="http://example.com/example.jpg"/>
     </div>
   </div>
 </template>

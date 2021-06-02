@@ -11,7 +11,11 @@ export default {
   data: function () {
     return {
       CustomCss: null,
-      displayPanel: true
+      displayPanel: false,
+      config: {
+        useBing: true,
+        customBackground: null
+      }
     }
   },
   created () {

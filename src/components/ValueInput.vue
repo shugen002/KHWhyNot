@@ -11,14 +11,26 @@ export default {
     label: {
       type: String,
       default: ''
+    },
+    placeholder: {
+      type: String,
+      default: 'Input Something'
+    },
+    value: {
+      type: [String, Number],
+      default: null
+    },
+    type: {
+      type: String,
+      default: 'text'
+    },
+    buttonText: {
+      type: String,
+      default: '应用'
     }
   },
   data: function() {
     return {
-      value: null,
-      type: 'text',
-      buttonText: '应用',
-      placeholder: '占位符'
     }
   }
 }
@@ -31,6 +43,7 @@ export default {
   display: inline-block;
   background-color: transparent;
   border: 1px solid rgba(0, 0, 0, 0.4);
+  width: 250px;
   padding: 4px;
   border-radius: 4px;
   font: unset
